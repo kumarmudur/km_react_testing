@@ -13,6 +13,6 @@ const Button = () => {
       <h1>{data}</h1>
     </>
   );
-};
+}; 
 
 export default Button;
